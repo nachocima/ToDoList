@@ -1,0 +1,26 @@
+
+.fondo{
+    margin-top: 50px;
+    height: 100vh;
+    width: 100%;
+}
+.b{
+    border: 2px solid white;
+}
+.div_img img{
+    width: 100%;
+}
+.row_principal{
+    height: min-content;
+    width: 100%;
+}
+h1{
+    font-size: 5em;
+    font-weight: bold;
+    color: #1F759D;
+}
+.navegador{
+    position: fixed;
+    top: 0;
+    width: 100%;
+}

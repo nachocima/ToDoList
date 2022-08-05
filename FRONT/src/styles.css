@@ -1,0 +1,14 @@
+body{
+    background-image: url("/assets/imgs/fondo-home.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height: 100vh;
+    height: 100%;
+}
+.alerta{
+    color: red;
+}
+.b{
+    border: 2px solid red;
+}
